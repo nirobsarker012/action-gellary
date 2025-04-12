@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic 35mm film camera known for its exceptional build and optics.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/nqPBjb3b/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "A legendary rock guitar with original pickups and cherry finish.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/ZpPcbtC7/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The original Macintosh computer that started it all.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 17,
+    "image": "https://i.ibb.co.com/vCmnN48p/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A timeless stainless steel dive watch from Rolex with automatic movement.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 24,
+    "image": "https://i.ibb.co.com/SwyBVh7p/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare first edition, a cornerstone of American literature.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 10,
+    "image": "https://i.ibb.co.com/rD1z1Tw/Bid6-min.png"
+  },
+
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Rare first edition, a cornerstone of American literature.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 10,
+    "image": "https://i.ibb.co.com/RTv7tp85/Bid5-min.png"
+  },
+
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "Authentic signed piece from the elusive street artist.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 15,
+    "image": "https://i.ibb.co.com/5fw2tLC/Bid7-min.png"
+  }
+]

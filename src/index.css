@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@font-face {
+  font-family: Poppins;
+  src: url("../src/fonts/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: Sora;
+  src: url("../src/fonts/Sora-Regular.ttf");
+}
+
+@theme {
+  --font-poppins: Poppins, "sans-serif";
+}
+@theme {
+  --font-sora: Sora, "sans-serif";
+}
+
+.container {
+  width: calc(100% - 40px);
+  max-width: 1350px;
+  margin-inline: auto;
+}
